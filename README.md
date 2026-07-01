@@ -168,7 +168,17 @@ Returns `ai_decision` if present; otherwise applies the rule-based fallback.
   "explanation": "Human-readable rationale referencing policy sections."
 }
 ```
-
+---
+Assumptions
+- Mock company policy
+- Mock employee claims
+- Static reimbursement limits
+Limitations
+- No database persistence
+- No authentication
+- Mock receipt validation
+- No OCR support
+- No human approval workflow
 ---
 
 ## Deterministic Validators
