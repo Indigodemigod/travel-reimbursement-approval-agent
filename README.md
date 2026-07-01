@@ -3,7 +3,10 @@
 An AI-assisted travel reimbursement approval system built with **FastAPI**, **LangGraph**, and **Google Gemini 2.5 Flash**. Deterministic Python tools validate claims against company policy; Gemini performs structured reasoning over those facts and retrieved policy context to produce auditable approval decisions.
 
 ---
+## Demo
 
+See the screenshots inside the `/demo` folder.
+ 
 ## Architecture
 
 The system follows a **tool-first, reason-second** design:
