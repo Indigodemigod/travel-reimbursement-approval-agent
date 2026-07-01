@@ -169,16 +169,18 @@ Returns `ai_decision` if present; otherwise applies the rule-based fallback.
 }
 ```
 ---
-Assumptions
+
+## Assumptions
 - Mock company policy
 - Mock employee claims
 - Static reimbursement limits
-Limitations
+## Limitations
 - No database persistence
 - No authentication
 - Mock receipt validation
 - No OCR support
 - No human approval workflow
+  
 ---
 
 ## Deterministic Validators
