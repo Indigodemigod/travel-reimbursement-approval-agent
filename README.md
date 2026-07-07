@@ -396,7 +396,3 @@ Runs 22 realistic scenarios against `POST /approve` with a summary table (Reques
 - **Policy versioning** — Track which policy version was applied per decision
 
 ---
-
-## License
-
-Internal use / assignment project.
